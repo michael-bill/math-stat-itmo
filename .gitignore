@@ -4,4 +4,3 @@ venv
 /auxil
 .idea
 **/*.gz
-**/*.py
